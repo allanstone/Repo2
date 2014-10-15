@@ -1,8 +1,8 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Clase pho</title>
+	<title>Metal Store</title>
 	<link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
