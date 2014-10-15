@@ -6,7 +6,11 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
-	
+	<h1>Carrusel</h1>
+	 <aside>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+  	Quidem, facilis. Illo, odit tenetur cupiditate est odio animi dolorem
+  	tempora commodi explicabo obcaecati officia architecto aut iusto, at. Velit, ab, sint.
+  	</aside>
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
